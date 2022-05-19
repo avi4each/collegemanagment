@@ -1,0 +1,27 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="culture n support.aspx.cs" Inherits="_Default" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Untitled Page</title>
+    <style type="text/css">
+        .style1
+        {
+            width: 98%;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <table align="center" style="height: 746px; width: 50%;" cellspacing="3px">
+    <td colspan="2" align="center" class="style1">CULTURE AND SOCIETY</th></td>
+    <tr width="50%" align="center">
+    <td class="style1"></td><td></td></tr>
+    <tr width="50%" align="center">
+    <td class="style1"></td><td></td></tr></tr>
+    <tr width="50%" align="center">
+    <td class="style1"></td><td></td></tr></tr>
+    </form>
+</body>
+</html>
